@@ -4,3 +4,4 @@ numpy
 seaborn
 scipy
 matplotlib
+openpyxl
